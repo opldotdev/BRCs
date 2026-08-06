@@ -230,6 +230,9 @@ BRC | Standard
 226  | [Miner-Enforced Resale-Royalty Covenant Tokens (OP_PUSH_TX)](./tokens/0226.md)
 227  | [Frictionless On-Chain Onboarding via Pre-Funded Claimable Tokens](./apps/0227.md)
 310  | [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0310.md)
+311  | [MAP — Magic Attribute Protocol](./scripts/0311.md)
+312  | [AIP — Author Identity Protocol](./scripts/0312.md)
+313  | [Sigma — Transaction-Bound Script Signatures](./scripts/0313.md)
 
 ## License
 

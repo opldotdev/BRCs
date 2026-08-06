@@ -16,3 +16,6 @@ BRC  | Standard
 48   | [Pay to Push Drop](./0048.md)
 106  | [Bitcoin Script ASM Format](./0106.md)
 310  | [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./0310.md)
+311  | [MAP — Magic Attribute Protocol](./0311.md)
+312  | [AIP — Author Identity Protocol](./0312.md)
+313  | [Sigma — Transaction-Bound Script Signatures](./0313.md)

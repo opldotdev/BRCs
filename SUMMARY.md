@@ -102,6 +102,9 @@
 * [Pay to Push Drop](./scripts/0048.md)
 * [Bitcoin Script ASM Format](./scripts/0106.md)
 * [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0310.md)
+* [MAP — Magic Attribute Protocol](./scripts/0311.md)
+* [AIP — Author Identity Protocol](./scripts/0312.md)
+* [Sigma — Transaction-Bound Script Signatures](./scripts/0313.md)
 
 ## Tokens
 
