@@ -101,6 +101,7 @@
 * [Bare Multi-Signature](./scripts/0047.md)
 * [Pay to Push Drop](./scripts/0048.md)
 * [Bitcoin Script ASM Format](./scripts/0106.md)
+* [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0310.md)
 
 ## Tokens
 

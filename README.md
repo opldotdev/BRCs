@@ -229,6 +229,7 @@ BRC | Standard
 225  | [Animated-QR Air-Gap Transport for Arbitrary Payloads (TKQR1)](./peer-to-peer/0225.md)
 226  | [Miner-Enforced Resale-Royalty Covenant Tokens (OP_PUSH_TX)](./tokens/0226.md)
 227  | [Frictionless On-Chain Onboarding via Pre-Funded Claimable Tokens](./apps/0227.md)
+310  | [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0310.md)
 
 ## License
 
