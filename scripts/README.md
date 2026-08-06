@@ -19,3 +19,4 @@ BRC  | Standard
 311  | [MAP — Magic Attribute Protocol](./0311.md)
 312  | [AIP — Author Identity Protocol](./0312.md)
 313  | [Sigma — Transaction-Bound Script Signatures](./0313.md)
+314  | [B — Bitcoin Data Protocol](./0314.md)

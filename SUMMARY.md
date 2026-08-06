@@ -105,6 +105,7 @@
 * [MAP — Magic Attribute Protocol](./scripts/0311.md)
 * [AIP — Author Identity Protocol](./scripts/0312.md)
 * [Sigma — Transaction-Bound Script Signatures](./scripts/0313.md)
+* [B — Bitcoin Data Protocol](./scripts/0314.md)
 
 ## Tokens
 
