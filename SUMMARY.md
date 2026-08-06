@@ -19,6 +19,7 @@
 * [NotaryHash — Privacy-Preserving Signed-Hash Notarization with SPV-Verifiable Certificates](./apps/0220.md)
 * [Block Media Format (BMF) — Composable On-Chain Audio/Video](./apps/0224.md)
 * [Frictionless On-Chain Onboarding via Pre-Funded Claimable Tokens](./apps/0227.md)
+* [Bitcoin Schema — Social Data Types](./apps/0312.md)
 
 ## Wallet
 
@@ -101,11 +102,11 @@
 * [Bare Multi-Signature](./scripts/0047.md)
 * [Pay to Push Drop](./scripts/0048.md)
 * [Bitcoin Script ASM Format](./scripts/0106.md)
-* [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0310.md)
-* [MAP — Magic Attribute Protocol](./scripts/0311.md)
-* [AIP — Author Identity Protocol](./scripts/0312.md)
-* [Sigma — Transaction-Bound Script Signatures](./scripts/0313.md)
-* [B — Bitcoin Data Protocol](./scripts/0314.md)
+* [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0300.md)
+* [B — Bitcoin Data Protocol](./scripts/0301.md)
+* [AIP — Author Identity Protocol](./scripts/0302.md)
+* [MAP — Magic Attribute Protocol](./scripts/0303.md)
+* [Sigma — Transaction-Bound Script Signatures](./scripts/0304.md)
 
 ## Tokens
 
@@ -122,6 +123,11 @@
 * [1Sat Provenance Remittance for Basket `1sat`](./tokens/0150.md)
 * [Latched 1Sat Provenance for Basket `1sat`](./tokens/0156.md)
 * [Miner-Enforced Resale-Royalty Covenant Tokens (OP_PUSH_TX)](./tokens/0226.md)
+* [1Sat Ordinals — Single-Satoshi Tokens and Origin Tracking](./tokens/0306.md)
+* [1Sat Ordinals — Inscription Envelopes](./tokens/0307.md)
+* [1Sat Ordinal Collections](./tokens/0308.md)
+* [BSV-21 Fungible Tokens (JSON / Legacy)](./tokens/0309.md)
+* [BSV-21 Fungible Tokens (Binary)](./tokens/0310.md)
 
 ## Overlays
 
@@ -171,6 +177,7 @@
 * [Fountain-Coded Air-Gap Transport for Arbitrary Payloads](./peer-to-peer/0141.md)
 * [Universal Handle Addressing and Resolution for the Metanet](./peer-to-peer/0169.md)
 * [Animated-QR Air-Gap Transport for Arbitrary Payloads (TKQR1)](./peer-to-peer/0225.md)
+* [BAP — Bitcoin Attestation Protocol](./peer-to-peer/0311.md)
 
 ## Key Derivation
 
@@ -194,6 +201,7 @@
 * [User Wallet Data Format](./outpoints/0038.md)
 * [User Wallet Data Format Encryption Extension](./outpoints/0039.md)
 * [User Wallet Data Synchronization](./outpoints/0040.md)
+* [Outpoint Content Addressing](./outpoints/0305.md)
 
 ## Opinions
 
