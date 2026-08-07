@@ -21,3 +21,4 @@ BRC | Standard
 169  | [Universal Handle Addressing and Resolution for the Metanet](./0169.md)
 225  | [Animated-QR Air-Gap Transport for Arbitrary Payloads (TKQR1)](./0225.md)
 311  | [BAP — Bitcoin Attestation Protocol](./0311.md)
+313  | [Encrypted Group Messaging over Type-42 Key Derivation](./0313.md)

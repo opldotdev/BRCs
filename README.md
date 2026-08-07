@@ -242,6 +242,7 @@ BRC | Standard
 310  | [BSV-21 Fungible Tokens (Binary)](./tokens/0310.md)
 311  | [BAP — Bitcoin Attestation Protocol](./peer-to-peer/0311.md)
 312  | [Bitcoin Schema — Social Data Types](./apps/0312.md)
+313  | [Encrypted Group Messaging over Type-42 Key Derivation](./peer-to-peer/0313.md)
 
 ## License
 

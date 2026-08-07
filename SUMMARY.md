@@ -178,6 +178,7 @@
 * [Universal Handle Addressing and Resolution for the Metanet](./peer-to-peer/0169.md)
 * [Animated-QR Air-Gap Transport for Arbitrary Payloads (TKQR1)](./peer-to-peer/0225.md)
 * [BAP — Bitcoin Attestation Protocol](./peer-to-peer/0311.md)
+* [Encrypted Group Messaging over Type-42 Key Derivation](./peer-to-peer/0313.md)
 
 ## Key Derivation
 
