@@ -52,6 +52,7 @@
 * [Pull-Based Receive Discovery](./wallet/0155.md)
 * [Output Identity Tags for BRC-100 Wallets](./wallet/0164.md)
 * [Wallet Permission Prompt Liveness Contract](./wallet/0219.md)
+* [Native Application Wallet Communications Substrate](./wallet/0314.md)
 
 ## Transactions
 
