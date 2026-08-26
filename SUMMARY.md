@@ -20,7 +20,7 @@
 * [NotaryHash — Privacy-Preserving Signed-Hash Notarization with SPV-Verifiable Certificates](./apps/0220.md)
 * [Block Media Format (BMF) — Composable On-Chain Audio/Video](./apps/0224.md)
 * [Frictionless On-Chain Onboarding via Pre-Funded Claimable Tokens](./apps/0227.md)
-* [Game World System (GWS)](./apps/0229.md)
+* [MAP Location Keys (cell, world, lat, lng)](./apps/0229.md)
 
 ## Wallet
 
