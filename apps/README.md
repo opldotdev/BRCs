@@ -14,3 +14,4 @@ BRC   | Standard
 220   | [NotaryHash — Privacy-Preserving Signed-Hash Notarization with SPV-Verifiable Certificates](./0220.md)
 224   | [Block Media Format (BMF) — Composable On-Chain Audio/Video](./0224.md)
 227   | [Frictionless On-Chain Onboarding via Pre-Funded Claimable Tokens](./0227.md)
+229   | [Game World System (GWS)](./0229.md)
