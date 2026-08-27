@@ -15,3 +15,4 @@ BRC  | Standard
 47   | [Bare Multi-Signature](./0047.md)
 48   | [Pay to Push Drop](./0048.md)
 106  | [Bitcoin Script ASM Format](./0106.md)
+514  | [MAP State Resolution over a 1Sat Chain](./0514.md)

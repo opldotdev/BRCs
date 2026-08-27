@@ -104,6 +104,7 @@
 * [Bare Multi-Signature](./scripts/0047.md)
 * [Pay to Push Drop](./scripts/0048.md)
 * [Bitcoin Script ASM Format](./scripts/0106.md)
+* [MAP State Resolution over a 1Sat Chain](./scripts/0514.md)
 
 ## Tokens
 
