@@ -247,6 +247,7 @@ BRC | Standard
 185  | [1Sat Ordinal Collections](./tokens/0185.md)
 186  | [BAP — Bitcoin Attestation Protocol](./peer-to-peer/0186.md)
 187  | [Bitcoin Schema — Social Data Types](./apps/0187.md)
+188  | [Encrypted Group Messaging over BRC-78](./peer-to-peer/0188.md)
 190  | [Access Gates for Metanet Rooms](./apps/0190.md)
 210  | [Derived Collectibles](./apps/0210.md)
 218  | [Chat-Native Command Grammar for the Metanet](./apps/0218.md)

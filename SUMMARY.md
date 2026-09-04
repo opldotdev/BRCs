@@ -190,6 +190,7 @@
 * [Fountain-Coded Air-Gap Transport for Arbitrary Payloads](./peer-to-peer/0141.md)
 * [Universal Handle Addressing and Resolution for the Metanet](./peer-to-peer/0169.md)
 * [BAP — Bitcoin Attestation Protocol](./peer-to-peer/0186.md)
+* [Encrypted Group Messaging over BRC-78](./peer-to-peer/0188.md)
 * [Animated-QR Air-Gap Transport for Arbitrary Payloads (TKQR1)](./peer-to-peer/0225.md)
 * [Keyed Content and Conditional Key Release](./peer-to-peer/0369.md)
 
