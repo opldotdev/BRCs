@@ -238,7 +238,7 @@ BRC | Standard
 174  | [Consensus-Unique Name Tokens — Identity Binding and Verified Resolution](./tokens/0174.md)
 176  | [BSV-21 — Validity Proofs](./tokens/0176.md)
 177  | [Wallet-Enforced Expiry for `noSend` Actions](./wallet/0177.md)
-188  | [Encrypted Group Messaging over Type-42 Key Derivation](./peer-to-peer/0188.md)
+188  | [Encrypted Group Messaging over BRC-78](./peer-to-peer/0188.md)
 190  | [Access Gates for Metanet Rooms](./apps/0190.md)
 210  | [Derived Collectibles](./apps/0210.md)
 218  | [Chat-Native Command Grammar for the Metanet](./apps/0218.md)
