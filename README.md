@@ -250,6 +250,7 @@ BRC | Standard
 188  | [Encrypted Group Messaging over BRC-78](./peer-to-peer/0188.md)
 189  | [MAP State Resolution over a 1Sat Chain](./scripts/0189.md)
 190  | [Access Gates for Metanet Rooms](./apps/0190.md)
+191  | [MAP Location Keys (`quadkey`, `world`, `coordinates.*`)](./apps/0191.md)
 210  | [Derived Collectibles](./apps/0210.md)
 218  | [Chat-Native Command Grammar for the Metanet](./apps/0218.md)
 219  | [Wallet Permission Prompt Liveness Contract](./wallet/0219.md)

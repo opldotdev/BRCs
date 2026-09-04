@@ -17,6 +17,7 @@
 * [Locked Content Header (LCH) — Licensed, Micropayment-Enabled Content](./apps/0170.md)
 * [Bitcoin Schema — Social Data Types](./apps/0187.md)
 * [Access Gates for Metanet Rooms](./apps/0190.md)
+* [MAP Location Keys (`quadkey`, `world`, `coordinates.*`)](./apps/0191.md)
 * [Derived Collectibles](./apps/0210.md)
 * [Chat-Native Command Grammar for the Metanet](./apps/0218.md)
 * [NotaryHash — Privacy-Preserving Signed-Hash Notarization with SPV-Verifiable Certificates](./apps/0220.md)

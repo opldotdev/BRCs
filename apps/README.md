@@ -11,6 +11,7 @@ BRC   | Standard
 170   | [Locked Content Header (LCH) — Licensed, Micropayment-Enabled Content](./0170.md)
 187  | [Bitcoin Schema — Social Data Types](./0187.md)
 190   | [Access Gates for Metanet Rooms](./0190.md)
+191  | [MAP Location Keys (`quadkey`, `world`, `coordinates.*`)](./0191.md)
 210   | [Derived Collectibles](./0210.md)
 218   | [Chat-Native Command Grammar for the Metanet](./0218.md)
 220   | [NotaryHash — Privacy-Preserving Signed-Hash Notarization with SPV-Verifiable Certificates](./0220.md)
