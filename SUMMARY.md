@@ -110,6 +110,7 @@
 * [Bitcoin Script to and from Bitcoin BASIC — a compiler and a decompiler](./scripts/0173.md)
 * [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0179.md)
 * [B — Bitcoin Data Protocol](./scripts/0180.md)
+* [AIP — Author Identity Protocol](./scripts/0181.md)
 
 ## Tokens
 
