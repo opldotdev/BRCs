@@ -243,6 +243,7 @@ BRC | Standard
 181  | [AIP — Author Identity Protocol](./scripts/0181.md)
 182  | [MAP — Magic Attribute Protocol](./scripts/0182.md)
 183  | [Sigma — Transaction-Bound Script Signatures](./scripts/0183.md)
+184  | [Outpoint Content Addressing](./outpoints/0184.md)
 190  | [Access Gates for Metanet Rooms](./apps/0190.md)
 210  | [Derived Collectibles](./apps/0210.md)
 218  | [Chat-Native Command Grammar for the Metanet](./apps/0218.md)

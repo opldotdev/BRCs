@@ -9,3 +9,4 @@ BRC | Standard
 38   | [User Wallet Data Format](./0038.md)
 39   | [User Wallet Data Format Encryption Extension](./0039.md)
 40   | [User Wallet Data Synchronization](./0040.md)
+184  | [Outpoint Content Addressing](./0184.md)
