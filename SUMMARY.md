@@ -111,6 +111,7 @@
 * [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0179.md)
 * [B — Bitcoin Data Protocol](./scripts/0180.md)
 * [AIP — Author Identity Protocol](./scripts/0181.md)
+* [MAP — Magic Attribute Protocol](./scripts/0182.md)
 
 ## Tokens
 

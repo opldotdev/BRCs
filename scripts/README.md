@@ -19,3 +19,4 @@ BRC  | Standard
 179  | [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./0179.md)
 180  | [B — Bitcoin Data Protocol](./0180.md)
 181  | [AIP — Author Identity Protocol](./0181.md)
+182  | [MAP — Magic Attribute Protocol](./0182.md)

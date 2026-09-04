@@ -241,6 +241,7 @@ BRC | Standard
 179  | [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0179.md)
 180  | [B — Bitcoin Data Protocol](./scripts/0180.md)
 181  | [AIP — Author Identity Protocol](./scripts/0181.md)
+182  | [MAP — Magic Attribute Protocol](./scripts/0182.md)
 190  | [Access Gates for Metanet Rooms](./apps/0190.md)
 210  | [Derived Collectibles](./apps/0210.md)
 218  | [Chat-Native Command Grammar for the Metanet](./apps/0218.md)
