@@ -21,3 +21,4 @@ BRC  | Standard
 181  | [AIP — Author Identity Protocol](./0181.md)
 182  | [MAP — Magic Attribute Protocol](./0182.md)
 183  | [Sigma — Transaction-Bound Script Signatures](./0183.md)
+189  | [MAP State Resolution over a 1Sat Chain](./0189.md)

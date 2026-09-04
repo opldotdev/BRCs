@@ -114,6 +114,7 @@
 * [AIP — Author Identity Protocol](./scripts/0181.md)
 * [MAP — Magic Attribute Protocol](./scripts/0182.md)
 * [Sigma — Transaction-Bound Script Signatures](./scripts/0183.md)
+* [MAP State Resolution over a 1Sat Chain](./scripts/0189.md)
 
 ## Tokens
 
