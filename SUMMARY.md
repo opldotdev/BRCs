@@ -208,6 +208,7 @@
 * [User Wallet Data Format](./outpoints/0038.md)
 * [User Wallet Data Format Encryption Extension](./outpoints/0039.md)
 * [User Wallet Data Synchronization](./outpoints/0040.md)
+* [Outpoint Content Addressing](./outpoints/0184.md)
 
 ## Opinions
 
