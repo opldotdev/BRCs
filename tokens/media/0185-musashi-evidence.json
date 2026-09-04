@@ -1,0 +1,105 @@
+{
+  "schema": "brc-185-musashi-evidence-v1",
+  "purpose": "Pinned raw-transaction and Sigma issuer-binding evidence; not full chain or membership validation.",
+  "sources": {
+    "item": "https://raw.githubusercontent.com/b-open-io/1sat-stack/589884a6a445a57b62e79057d27040660bdaec37/pkg/template/bitcom/testdata/34adf92c766e11a656d3ff3508df7b1a31405821bf734bc9bef9fb43fcf701f9.hex",
+    "root": "https://api.whatsonchain.com/v1/bsv/main/tx/ee8c1a403ad4d9396df261b96f53a30209c2ba419d0e9b41f4930a4602e72cde/hex",
+    "item_api": "https://api.whatsonchain.com/v1/bsv/main/tx/34adf92c766e11a656d3ff3508df7b1a31405821bf734bc9bef9fb43fcf701f9/hex"
+  },
+  "records": [
+    {
+      "role": "item",
+      "txid": "34adf92c766e11a656d3ff3508df7b1a31405821bf734bc9bef9fb43fcf701f9",
+      "outputIndex": 0,
+      "satoshis": 1,
+      "scriptLength": 14256,
+      "contentType": "image/webp",
+      "map": {
+        "app": "ZoideNFT",
+        "type": "ord",
+        "subType": "collectionItem",
+        "subTypeData": "{\"name\":\"Musashi 42\",\"collectionId\":\"ee8c1a403ad4d9396df261b96f53a30209c2ba419d0e9b41f4930a4602e72cde_0\",\"mintNumber\":\"42\",\"rarityLabel\":\"RARE\"}",
+        "royalties": "[{\"type\":\"paymail\",\"destination\":\"1HjN545U6hJewz5JiQX7QbTNPNUyqxhaSf\",\"percentage\":0.1}]"
+      },
+      "subTypeData": {
+        "name": "Musashi 42",
+        "collectionId": "ee8c1a403ad4d9396df261b96f53a30209c2ba419d0e9b41f4930a4602e72cde_0",
+        "mintNumber": "42",
+        "rarityLabel": "RARE"
+      },
+      "sigma": [
+        {
+          "algorithm": "BSM",
+          "declaredSigner": "12KP5KzkBwtsc1UrTrsBCJzgqKn8UqaYQq",
+          "vin": 0,
+          "resolvedVin": 0,
+          "sourceTXID": "ce616907bb8d19f1c3a4f7767863e41b258afb5204278e7fb9ef07bc711a6342",
+          "sourceVout": 3,
+          "inputBytesHex": "ce616907bb8d19f1c3a4f7767863e41b258afb5204278e7fb9ef07bc711a634203000000",
+          "inputHash": "03a45f2a9557c8623e292468ff3837d755997d2ef018abfd6e3e5254aeac1f80",
+          "signedPrefixLength": 14141,
+          "signedPrefixSHA256": "2b2e513080bfdfbd07a0b32b1b147253f8aeea8aa182847dc57f1a36912688dc",
+          "sigmaSeparatorOffset": 14141,
+          "separatorOpcode": 1,
+          "messageHash": "1ac4e472b4a8d5614e61197d515e691f5f02bd38b4139763d4c805ed724f09c4",
+          "bitcoinSignedMessageDigest": "8aac6522f6609d3feae6704b54580b5b6be4a094d9c575c5788892d2f28c1e64",
+          "compactSignatureHex": "1fa86118c68c274c244148dc9b6d79e4bc812dcfdfebea511cb714a54a2ab2c8fe74472aaf9c87dac70129263467d4601ddd3aeb145b2c204c3c3bb6f41bbcbcf7",
+          "compactSignatureBase64": "H6hhGMaMJ0wkQUjcm2155LyBLc/f6+pRHLcUpUoqssj+dEcqr5yH2scBKSY0Z9RgHd066xRbLCBMPDu29Bu8vPc=",
+          "recovery": 0,
+          "recoveredPublicKey": "037da89fcbeab8c3fe819bb48eb46beada585f1a5b3532f3a729b24780138806dd",
+          "recoveredAddress": "12KP5KzkBwtsc1UrTrsBCJzgqKn8UqaYQq"
+        }
+      ]
+    },
+    {
+      "role": "root",
+      "txid": "ee8c1a403ad4d9396df261b96f53a30209c2ba419d0e9b41f4930a4602e72cde",
+      "outputIndex": 0,
+      "satoshis": 1,
+      "scriptLength": 1279928,
+      "contentType": "image/png",
+      "map": {
+        "app": "ZoideNFT",
+        "type": "ord",
+        "subType": "collection",
+        "name": "Musashi",
+        "subTypeData": "{\"description\":\"A collection inspired by the solitude of a Samurai.\",\"quantity\":\"240\",\"rarityLabels\":{},\"traits\":{}}"
+      },
+      "subTypeData": {
+        "description": "A collection inspired by the solitude of a Samurai.",
+        "quantity": "240",
+        "rarityLabels": {},
+        "traits": {}
+      },
+      "sigma": [
+        {
+          "algorithm": "BSM",
+          "declaredSigner": "12KP5KzkBwtsc1UrTrsBCJzgqKn8UqaYQq",
+          "vin": 0,
+          "resolvedVin": 0,
+          "sourceTXID": "d57877f8b326e280b06d314bb419b443762def4cd855f59c897c4d5231f67aa7",
+          "sourceVout": 1,
+          "inputBytesHex": "d57877f8b326e280b06d314bb419b443762def4cd855f59c897c4d5231f67aa701000000",
+          "inputHash": "759fcc7978324c256c3c46d5cfa07a11ce0d439e61e3f681a6384d5d92fa6ed6",
+          "signedPrefixLength": 1279813,
+          "signedPrefixSHA256": "9e7b74dfbefe93fb4bfba4da052d4293cb57eecaddad76dc32bc6d9a4f1283db",
+          "sigmaSeparatorOffset": 1279813,
+          "separatorOpcode": 1,
+          "messageHash": "7217c217737f7713a4c4cccef9d8953b43932bd5b7518ddca70b8ef67e3042b5",
+          "bitcoinSignedMessageDigest": "783aa27839cec0cf083cd7e6fc0a65808201bbe22f8270a36bc3a06c445950f8",
+          "compactSignatureHex": "2017c1831b041446e82eaa68249802bad86e6a184b8861e4ad7a78d04ebfa6d4ef4907463f945917196d9eb4b5e2a7b1e738f856f3abd4e47b401221ecd499264a",
+          "compactSignatureBase64": "IBfBgxsEFEboLqpoJJgCuthuahhLiGHkrXp40E6/ptTvSQdGP5RZFxltnrS14qex5zj4VvOr1OR7QBIh7NSZJko=",
+          "recovery": 1,
+          "recoveredPublicKey": "037da89fcbeab8c3fe819bb48eb46beada585f1a5b3532f3a729b24780138806dd",
+          "recoveredAddress": "12KP5KzkBwtsc1UrTrsBCJzgqKn8UqaYQq"
+        }
+      ]
+    }
+  ],
+  "interpretation": {
+    "claim": "Item subTypeData.collectionId names the pinned root output.",
+    "issuerBinding": "Both compact signatures over the actual covered MAP prefixes recover the same signer; verifier requires raw transactions.",
+    "descriptiveCompatibility": "Item name is nested; root quantity and item mintNumber are canonical decimal strings. Root rarityLabels is an object. These descriptive forms do not invalidate issuer binding.",
+    "chainValidation": "Not performed by this fixture verifier; chain inclusion, transaction validity, origin status and ownership require separate evidence."
+  }
+}
