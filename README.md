@@ -239,6 +239,7 @@ BRC | Standard
 176  | [BSV-21 — Validity Proofs](./tokens/0176.md)
 177  | [Wallet-Enforced Expiry for `noSend` Actions](./wallet/0177.md)
 179  | [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0179.md)
+180  | [B — Bitcoin Data Protocol](./scripts/0180.md)
 190  | [Access Gates for Metanet Rooms](./apps/0190.md)
 210  | [Derived Collectibles](./apps/0210.md)
 218  | [Chat-Native Command Grammar for the Metanet](./apps/0218.md)
