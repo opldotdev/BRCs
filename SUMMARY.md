@@ -108,6 +108,7 @@
 * [Pay to Push Drop](./scripts/0048.md)
 * [Bitcoin Script ASM Format](./scripts/0106.md)
 * [Bitcoin Script to and from Bitcoin BASIC — a compiler and a decompiler](./scripts/0173.md)
+* [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0179.md)
 
 ## Tokens
 
