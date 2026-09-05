@@ -238,6 +238,7 @@ BRC | Standard
 174  | [Consensus-Unique Name Tokens — Identity Binding and Verified Resolution](./tokens/0174.md)
 176  | [BSV-21 — Validity Proofs](./tokens/0176.md)
 177  | [Wallet-Enforced Expiry for `noSend` Actions](./wallet/0177.md)
+178  | [Collaborative Atomic Exchange for BRC-100 Wallets](./tokens/0178.md)
 179  | [Bitcom — Universal Bitcoin Computer: Decentralized Protocol Registry and Composition](./scripts/0179.md)
 180  | [B — Bitcoin Data Protocol](./scripts/0180.md)
 181  | [AIP — Author Identity Protocol](./scripts/0181.md)
