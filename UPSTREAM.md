@@ -57,7 +57,7 @@ Checked all 14 proposal documents: **318 BRC mentions and 129 numbered links**. 
 
 ## Branch lifecycle
 
-The `brc/...` branches above are the only active submission queue. Their specification and example bytes match integrated fork `master`. Each is one commit over the checked upstream base.
+The `brc/...` branches above are the only active submission queue. Their specification and example bytes match integrated fork `master`. Each contains only its focused proposal changes over the checked upstream base.
 
 The old `codex/upstream-brc-*` names were preparation aliases, not additional proposals. They are retired after exact-commit preservation under the names above. Merged `codex/brc-*` review branches are retired only after verifying that their commits are ancestors of fork `master`. Local historical review worktrees may retain their internal branch names; they are not another submission queue.
 
