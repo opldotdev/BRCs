@@ -2,11 +2,15 @@
 
 **Source of truth:** the reviewed specifications on `opldotdev/BRCs` `master`. This inventory covers 14 individual submissions: 13 new proposals (178–189 and 191), plus an editorial amendment to the already-published BRC-190.
 
-**Fork integration:** PRs [#6–#19](https://github.com/opldotdev/BRCs/pulls?q=is%3Apr+is%3Amerged) have been merged. BRC-178 is included. No upstream PRs have been opened for this series yet.
+**Fork integration:** PRs [#6–#19](https://github.com/opldotdev/BRCs/pulls?q=is%3Apr+is%3Amerged) have been merged. BRC-178 is included. The two BRC-190 editorial corrections are submitted upstream in [PR #241](https://github.com/bsv-blockchain/BRCs/pull/241). The 13 new proposals have not been submitted upstream.
 
 ## Individual submission branches
 
 Each `brc/<number>-<topic>` branch contains one proposal extracted from the integrated fork `master`, based directly on upstream `master`. This keeps each upstream diff focused. Opening several PRs from the same fork `master` head would include the same complete corpus, so `master` is the content source, not the submission head for every PR.
+
+**Content check:** all 14 submission branches were compared with fork `master`. Every specification and example file is byte-for-byte identical, and every index entry is present. No proposal content is missing from fork `master`.
+
+A comparison whose base repository is `bsv-blockchain/BRCs` shows what is missing from **upstream**, not from the OPL fork. The separate submission commits have different history from the original fork merges; that does not mean their content is unmerged.
 
 Each branch contains only its specification, its index entries, and any static examples. This inventory is fork workflow documentation and is excluded from the individual upstream branches.
 
