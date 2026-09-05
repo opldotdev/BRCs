@@ -108,6 +108,7 @@
 * [Pay to Push Drop](./scripts/0048.md)
 * [Bitcoin Script ASM Format](./scripts/0106.md)
 * [Bitcoin Script to and from Bitcoin BASIC — a compiler and a decompiler](./scripts/0173.md)
+* [MAP State Resolution over a 1Sat Chain](./scripts/0189.md)
 
 ## Tokens
 
