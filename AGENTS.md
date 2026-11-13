@@ -23,7 +23,8 @@ These instructions apply to the entire repository.
 
 ## Authorship
 
-Luke Rohenaz is the sole author of everything in this repository.
+Luke Rohenaz is the sole author of all new commits and PRs in this fork. Do not
+alter existing authorship or BRC author headings.
 
 - Commit as `Luke Rohenaz <rohenaz@gmail.com>`. `.claude/settings.json` sets
   this through `GIT_AUTHOR_*` and `GIT_COMMITTER_*`.
